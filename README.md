@@ -68,8 +68,6 @@ We welcome contributions from the community! If you'd like to contribute to PyCo
 
 If you encounter any bugs or have ideas for new features, please open an issue on GitHub and provide detailed information about your problem or suggestion.
 
-## Contributors
-
 ## License
 
 PyConc is licensed under the [MIT License](LICENSE).
